@@ -1,11 +1,11 @@
 {
-  "name": "vizceral",
-  "version": "4.9.0",
+  "name": "vizceraljs",
+  "version": "1.0.0",
   "description": "Intuitive animated traffic graph visualization using webgl. If a graph of nodes and edges with data about traffic volume is provided, it will render a traffic graph animating the connection volume between nodes.",
   "main": "dist/vizceral.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Netflix/vizceral.git"
+    "url": "https://github.com/vizceral/vizceral.git"
   },
   "scripts": {
     "dev": "npm run watch",
@@ -61,6 +61,6 @@
   "pre-commit": [
     "lint"
   ],
-  "author": "Justin Reynolds <jreynolds@netflix.com>",
+  "author": "Yggdrasill-7C9 <0x31f9f17@gmail.com>",
   "license": "Apache-2.0"
 }
