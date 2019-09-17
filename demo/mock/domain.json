@@ -1,0 +1,1097 @@
+{
+  "renderer": "global",
+  "name": "应用域",
+  "displayName": null,
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "对公及理财域",
+  "displayName": "对公及理财域",
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  },
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  }
+  ],
+  "metadata": null,
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 1000.0
+  },
+  {
+  "renderer": "region",
+  "name": "贷款域",
+  "displayName": "贷款域",
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  },
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  }
+  ],
+  "metadata": null,
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 1000.0
+  },
+  {
+  "renderer": "region",
+  "name": "零售域",
+  "displayName": "零售域",
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  },
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  }
+  ],
+  "metadata": null,
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 1000.0
+  },
+  {
+  "renderer": "region",
+  "name": "基础架构域",
+  "displayName": "基础架构域",
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  },
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  }
+  ],
+  "metadata": null,
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 1000.0
+  },
+  {
+  "renderer": "region",
+  "name": "公共平台域",
+  "displayName": "公共平台域",
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  },
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  }
+  ],
+  "metadata": null,
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 1000.0
+  },
+  {
+  "renderer": "region",
+  "name": "安全域",
+  "displayName": "安全域",
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  },
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  }
+  ],
+  "metadata": null,
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 1000.0
+  },
+  {
+  "renderer": "region",
+  "name": "存款及后台管理域",
+  "displayName": "存款及后台管理域",
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  },
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  }
+  ],
+  "metadata": null,
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 1000.0
+  },
+  {
+  "renderer": "region",
+  "name": "大数据域",
+  "displayName": "大数据域",
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  },
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  }
+  ],
+  "metadata": null,
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 1000.0
+  },
+  {
+  "renderer": "region",
+  "name": "工具域",
+  "displayName": "工具域",
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  },
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  }
+  ],
+  "metadata": null,
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 1000.0
+  },
+  {
+  "renderer": "region",
+  "name": "微众APP域",
+  "displayName": "微众APP域",
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  },
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  }
+  ],
+  "metadata": null,
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 1000.0
+  },
+  {
+  "renderer": "region",
+  "name": "企业IT域",
+  "displayName": "企业IT域",
+  "nodes": [
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  },
+  {
+  "renderer": "region",
+  "name": "temp",
+  "displayName": null,
+  "nodes": null,
+  "metadata": {
+  "streaming": 1
+  },
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 0.0
+  }
+  ],
+  "metadata": null,
+  "connections": null,
+  "updated": 0,
+  "maxVolume": 1000.0
+  }
+  ],
+  "metadata": null,
+  "connections": [
+  {
+  "source": "公共平台域",
+  "target": "公共平台域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "公共平台域",
+  "target": "大数据域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "公共平台域",
+  "target": "存款及后台管理域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "公共平台域",
+  "target": "安全域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "公共平台域",
+  "target": "对公及理财域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "公共平台域",
+  "target": "微众APP域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "公共平台域",
+  "target": "贷款域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "公共平台域",
+  "target": "零售域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "大数据域",
+  "target": "公共平台域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "大数据域",
+  "target": "大数据域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "大数据域",
+  "target": "存款及后台管理域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "大数据域",
+  "target": "安全域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "大数据域",
+  "target": "对公及理财域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "大数据域",
+  "target": "微众APP域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "大数据域",
+  "target": "贷款域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "大数据域",
+  "target": "零售域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "存款及后台管理域",
+  "target": "公共平台域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "存款及后台管理域",
+  "target": "大数据域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "存款及后台管理域",
+  "target": "存款及后台管理域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "存款及后台管理域",
+  "target": "安全域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "存款及后台管理域",
+  "target": "对公及理财域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "存款及后台管理域",
+  "target": "微众APP域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "存款及后台管理域",
+  "target": "贷款域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "存款及后台管理域",
+  "target": "零售域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "安全域",
+  "target": "企业IT域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "安全域",
+  "target": "公共平台域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "安全域",
+  "target": "大数据域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "安全域",
+  "target": "存款及后台管理域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "安全域",
+  "target": "安全域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "安全域",
+  "target": "对公及理财域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "安全域",
+  "target": "微众APP域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "安全域",
+  "target": "贷款域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "安全域",
+  "target": "零售域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "对公及理财域",
+  "target": "公共平台域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "对公及理财域",
+  "target": "大数据域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "对公及理财域",
+  "target": "存款及后台管理域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "对公及理财域",
+  "target": "安全域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "对公及理财域",
+  "target": "对公及理财域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "对公及理财域",
+  "target": "微众APP域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "对公及理财域",
+  "target": "贷款域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "对公及理财域",
+  "target": "零售域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "工具域",
+  "target": "公共平台域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "工具域",
+  "target": "安全域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "工具域",
+  "target": "对公及理财域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "工具域",
+  "target": "贷款域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "微众APP域",
+  "target": "公共平台域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "微众APP域",
+  "target": "大数据域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "微众APP域",
+  "target": "存款及后台管理域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "微众APP域",
+  "target": "安全域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "微众APP域",
+  "target": "对公及理财域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "微众APP域",
+  "target": "微众APP域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "微众APP域",
+  "target": "贷款域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "微众APP域",
+  "target": "零售域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "贷款域",
+  "target": "公共平台域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "贷款域",
+  "target": "大数据域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "贷款域",
+  "target": "存款及后台管理域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "贷款域",
+  "target": "安全域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "贷款域",
+  "target": "对公及理财域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "贷款域",
+  "target": "工具域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "贷款域",
+  "target": "微众APP域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "贷款域",
+  "target": "贷款域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "贷款域",
+  "target": "零售域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "零售域",
+  "target": "公共平台域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "零售域",
+  "target": "大数据域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "零售域",
+  "target": "存款及后台管理域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "零售域",
+  "target": "安全域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "零售域",
+  "target": "对公及理财域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "零售域",
+  "target": "微众APP域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "零售域",
+  "target": "贷款域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  },
+  {
+  "source": "零售域",
+  "target": "零售域",
+  "metrics": {
+  "danger": 2.0,
+  "normal": 20.0,
+  "warning": 2.0
+  },
+  "metadata": null
+  }
+  ],
+  "updated": 0,
+  "maxVolume": 1000.0
+  }
