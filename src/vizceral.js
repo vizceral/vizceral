@@ -33,6 +33,7 @@ import GlobalDefinitions from './globalDefinitions';
 import GlobalStyles from './globalStyles';
 import GlobalTrafficGraph from './global/globalTrafficGraph';
 import LTRTreeLayout from './layouts/ltrTreeLayout';
+import DomainTrafficGraph from './domain/domainTrafficGraph';
 import RegionTrafficGraph from './region/regionTrafficGraph';
 import RingCenterLayout from './layouts/ringCenterLayout';
 import RingLayout from './layouts/ringLayout';
@@ -157,6 +158,7 @@ class Vizceral extends EventEmitter {
 
     this.renderers = {
       global: GlobalTrafficGraph,
+      domain: DomainTrafficGraph,
       region: RegionTrafficGraph,
       focused: FocusedTrafficGraph,
       focusedChild: FocusedChildTrafficGraph,
